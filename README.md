@@ -39,7 +39,7 @@
 <td class="column-1">退款</td><td class="column-2">31天退款保证</td>
 </tr>
 <tr class="row-6 even">
-<td class="column-1">官网</td><td class="column-2"><a href="/go/pure" target="_blank" rel="noreferrer noopener">PureVPN.com</a></td>
+<td class="column-1">官网</td><td class="column-2"><a href="https://cntizi1.com?gitfqmm_kexue" target="_blank" rel="noreferrer noopener">PureVPN.com</a></td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +48,7 @@
 <p>由于防火长城的关键字检测，PureVPN官网在中国已经被封了，如果你不使用翻墙工具，是不能直接打开的。很多朋友想要在知乎上搜索关于PureVPN好不好用的问题，肯定也是不能找到的，这些属于敏感信息，本人也不敢在上面发表关于翻墙的字眼，毕竟不想被封号。当然，既然你能进去本站，相信你已经能够翻墙了吧。</p>
 <p>2011年到2012年当时正值移动互联网革命的时代，他们也推出了Android和iOS应用，这些应用为他们在全世界吸引了非常多的忠实客户。直到今天，他们已经在全球部署了6500多个服务器，涉及78+多个国家/地区，忠实<strong>用户达到了300万</strong>以上。</p>
 <p>如果你特别想优化在线保护，甚至可以设置PureVPN使其与路由器，智能电视，Chrome和Firefox等浏览器以及流服务（如Roku，Amazon Fire和Chromecast）配合使用。他们最近为Windows设备引入了“虚拟路由器”功能，这意味着你可以为Windows台式机或笔记本电脑提供类似于“路由器”的功能，以连接<strong>多达10种不同的设备</strong>。</p>
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/pure" target="_blank" rel="noreferrer noopener nofollow">访问PureVPN官网</a></div>
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_kexue" target="_blank" rel="noreferrer noopener nofollow">访问PureVPN官网</a></div>
 <hr>
 <h2 class="wp-block-heading" id="purevpn速度测试"><span id="PureVPN-2">PureVPN速度测试</span></h2>
 <p>油管播放速度测试，是我对每个VPN做测评的时候，必须做的一个环节，因为我们<a href="/gfw/">翻墙和科学上网</a>大多时候都需要观看视频。我个人对一个VPN的最低要求是，至少能够播放1080P的视频清晰度，这是一个付费VPN必须要做到的。</p>
@@ -62,7 +62,7 @@
 <div class="product-coupon">
 <p style="font-weight: 600">PureVPN最新优惠</p>
 <p>限时优惠，2年套餐节省82%</p>
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/pure" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得节省82%的PureVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_kexue" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得节省82%的PureVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
 <p>（优惠将通过链接自动抵扣）</p>
 </div>
 <hr>
@@ -85,7 +85,7 @@
 <div class="product-coupon">
 <p style="font-weight: 600">PureVPN最新优惠</p>
 <p>限时优惠，2年套餐节省82%</p>
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/pure" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得节省82%的PureVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_kexue" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得节省82%的PureVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
 <p>（优惠将通过链接自动抵扣）</p>
 </div>
 <p>PureVPN提供的付款方式非常多，但选择支付宝购买PureVPN肯定是最方便的，你可以使用<strong>信用卡、PayPal</strong>支付，甚至还有<strong>加密货币</strong>。所有计划均提供 30 天退款保证。</p>
